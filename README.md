@@ -1,4 +1,21 @@
-<!-- <img width="420" height="200" alt="banner" src="https://github.com/user-attachments/assets/afd64ca5-e6bc-430b-a6af-bec9afffffe1" /> -->
+
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle">
+        <img width="420" height="250" alt="Gemini_Generated_Image_ocefkwocefkwocef" src="https://github.com/user-attachments/assets/2bf844a8-ca6e-4adb-b7f0-84d9c3f74ba9" />
+      </td>
+      <td valign="middle" style="padding-left: 20px;">
+        <img width="420" height="200" alt="banner" src="https://github.com/user-attachments/assets/afd64ca5-e6bc-430b-a6af-bec9afffffe1" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+
+-   🌱 Currently Learning: **JAVASCRIPT**, **REACT**, and **JAVA**.
+-   💙 Interests: games 👾 and watching movies 🎬
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashchauhan1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YashChauha18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashchauhan18042006@gmail.com) 
@@ -8,22 +25,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=YashChauhan-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://streak-stats.demolab.com/?user=YashChauhan-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashChauhan-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**YashChauhan-1/YashChauhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-n ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
